@@ -1,0 +1,19 @@
+input {
+    display: block;
+    border: none;
+}
+
+/*this information is for the sign in form*/
+
+.singin-input {
+    margin: 0 auto;
+    width: 80%;
+    padding: 0;
+}
+
+#signin {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+}
